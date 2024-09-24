@@ -1,1 +1,3 @@
-# calculatorr
+The calculator has a modern and sleek design, with buttons for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes advanced functions such as square roots, logarithms, and trigonometric calculations, making it suitable for a variety of uses, from simple arithmetic to complex mathematical calculations.
+
+To use the Java Swing Calculator, simply enter the numbers you wish to calculate and select the appropriate operation. The calculator will display the result in real-time, allowing you to perform multiple calculations quickly and easily. The calculator also supports decimal inputs and outputs, making it useful for a wide range of calculations.
